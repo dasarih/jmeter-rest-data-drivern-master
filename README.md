@@ -15,3 +15,18 @@ This test was created using [JSON-Server](https://github.com/typicode/json-serve
 ![](http://i0.wp.com/www.testautomationguru.com/wp-content/uploads/2017/03/dd-rest011.png?resize=767%2C423)
 # jmeter-rest-data-drivern-master
 # jmeter-rest-data-drivern-master
+http://www.testautomationguru.com/jmeter-rest-api-testing-a-complete-data-driven-approach/
+json-server --watch db.json
+
+My db.json looks like this.
+{
+   "books":[
+ 
+   ],
+   "comments":[
+ 
+   ],
+   "profile":{
+      "name":"typicode"
+   }
+}
